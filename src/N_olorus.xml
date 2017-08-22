@@ -34,7 +34,7 @@
 <e> <lg> <l pos="N">-tukku</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">скопление</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">-velgu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">повинность</t> </tg> </mg> </e>
 
-<e> <lg> <l pos="N">: уровень воды vien pindu (korgevus)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">уровень</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">vien pindu (korgevus)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">уровень</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">CD-levy</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">компакт-диск</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">PS</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">постскриптум</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">TV</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">телевидение</t> </tg> </mg> </e>
@@ -44,11 +44,11 @@
 <e> <lg> <l pos="N">aberi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">букварь</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">abevus</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">обида</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">abonementu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">абонемент</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">abu (avun, abuu; abuloi)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">подмога</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">abu (avun, abuu; abuloi)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">подспорье</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">abu (avun, abuu; abuloi)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">помощь</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">abu (avun, abuu; abuloi)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">прок</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">abu (avun, abuu; abuloi)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">субсидия</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">abu (avun, abuu -  abuloi)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">подмога</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">abu (avun, abuu -  abuloi)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">подспорье</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">abu (avun, abuu -  abuloi)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">помощь</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">abu (avun, abuu -  abuloi)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">прок</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">abu (avun, abuu -  abuloi)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">субсидия</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">abudengu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">грант</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">abudengu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">субсидия</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">abuhoidai</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">санитар</t> </tg> </mg> </e>
@@ -843,7 +843,7 @@
 <e> <lg> <l pos="N">evakuatsii</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">эвакуация</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">evä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">плавник</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">evähät</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">провизия</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">ezi (ien, etty; ezii)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">фас</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">ezi (ien, etty -  ezii)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">фас</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">ezihistourii</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">предыстория</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">ezijoukko</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">авангард</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">ezimakso</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">аванс</t> </tg> </mg> </e>
@@ -1365,9 +1365,9 @@
 <e> <lg> <l pos="N">häbevys</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">растерянность</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">hädä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">горе</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">hädä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">надобность</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">hädä (hiän, hädiä; hädii)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">беда</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">hädä (hiän, hädiä; hädii)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">бедность</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">hädä (hiän, hädiä; hädii)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">бедствие</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">hädä (hiän, hädiä -  hädii)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">беда</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">hädä (hiän, hädiä -  hädii)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">бедность</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">hädä (hiän, hädiä -  hädii)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">бедствие</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">hädäkello</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">набат</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">häkinketoruaju</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">тореадор</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">häkki</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">бык</t> </tg> </mg> </e>
@@ -1434,8 +1434,8 @@
 <e> <lg> <l pos="N">igen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">десна</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">igenientulehtus</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">стоматит</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">igentaudi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">цинга</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">igä (ijän, igiä; igii)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">возраст</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">igä (ijän, igiä; igii)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">жизнь</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">igä (ijän, igiä -  igii)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">возраст</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">igä (ijän, igiä -  igii)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">жизнь</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">igävy</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">грусть</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">igävy</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">скука</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">igävy</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">тоска</t> </tg> </mg> </e>
@@ -1446,7 +1446,7 @@
 <e> <lg> <l pos="N">ihastus</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">радость</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">iirissu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">ирис</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">iivananheiny</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">лютик</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">ije (idien, ijetty; idielöi)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">рост|ок</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">ije (idien, ijetty -  idielöi)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">рост|ок</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">ikkun</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">окно</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">ikkunpieline</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">подоконник</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">ildaine</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">ужин</t> </tg> </mg> </e>
@@ -2375,7 +2375,7 @@
 <e> <lg> <l pos="N">kodimua</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">родина</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">kodimualaine</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">соотечественник</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">kodipereh</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">домочадцы</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">kodivägie; -gii/-gilöi)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">домочадцы</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">kodivägie -  -gii/-gilöi)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">домочадцы</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">kogomus</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">оглавление</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">kogomusluvettelu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">оглавление</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">kogonažus</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">комплекс</t> </tg> </mg> </e>
@@ -3485,7 +3485,7 @@
 <e> <lg> <l pos="N">medaljon</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">медальон</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">mehanizatsii</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">механизация</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">mehevys</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">сочность</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">mehevy|s (ön, -tty; -ksii)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">влажность</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">mehevy|s (ön, -tty -  -ksii)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">влажность</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">mehi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">влага</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">mehiläine</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">пчела</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">mehiläspezistö</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">пасека</t> </tg> </mg> </e>
@@ -3536,8 +3536,8 @@
 <e> <lg> <l pos="N">meteorolougu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">метеоролог</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">metrdotelli</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">метрдотель</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">metro</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">метро</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">mezi (mien, metty; mezii)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">мёд</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">mezi (mien, metty; mezii)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">нектар</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">mezi (mien, metty -  mezii)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">мёд</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">mezi (mien, metty -  mezii)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">нектар</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">mezimarju</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">княженика</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">mezimarju</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">поленика</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">mečikkö</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">перелесок</t> </tg> </mg> </e>
@@ -3897,7 +3897,7 @@
 <e> <lg> <l pos="N">nekrolougu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">некролог</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">nektuaru</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">нектар</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">nelli</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">четверо</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">nellisadua (nellänsuan, nelliäsadua; nelliisadoi)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">четыреста</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">nellisadua (nellänsuan, nelliäsadua -  nelliisadoi)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">четыреста</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">nelländes</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">четвертинка</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">nelläspäivy</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">четверг</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">nellät</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">четверо</t> </tg> </mg> </e>
@@ -4228,12 +4228,12 @@
 <e> <lg> <l pos="N">otvʼortku</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">отвёртка</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">otčottu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">отчёт</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">oudo (ovvon, ouduo, oudoloi)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">парадокс</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">oudo (ovvon, ouduo; oudoloi)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">догадка</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">oudo (ovvon, ouduo -  oudoloi)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">догадка</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">ounahus</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">хитрость</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">ounastelii</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">хитрец</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">oučerku</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">очерк</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">ovas (ogahan, ovastu; ogahii)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">колючка</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">ovas (ogahan, ovastu; ogahii)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">ость</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">ovas (ogahan, ovastu -  ogahii)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">колючка</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">ovas (ogahan, ovastu -  ogahii)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">ость</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">ovvostus</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">догадка</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">ovvostus</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">удивление</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">oza</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">везение</t> </tg> </mg> </e>
@@ -4288,7 +4288,7 @@
 <e> <lg> <l pos="N">oččutukat</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">чёлка</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">ošipku</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">погрешность</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">pabu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">боб</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">pada (puan, padua; padoi)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">горшок</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">pada (puan, padua -  padoi)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">горшок</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">pagii</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">щиколотка</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">pagin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">беседа</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">pagin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">обсуждение</t> </tg> </mg> </e>
@@ -5135,7 +5135,7 @@
 <e> <lg> <l pos="N">referuattu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">реферат</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">reformu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">реформа</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">reformuator</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">реформатор</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">regi (rien, regie; regilöi)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">сан|и</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">regi (rien, regie -  regilöi)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">сан|и</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">registratsii</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">регистрация</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">registratuuru</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">регистратура</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">regluamentu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">регламент</t> </tg> </mg> </e>
@@ -5413,7 +5413,7 @@
 <e> <lg> <l pos="N">räškötys</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">яркость</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">saamelaine</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">саам</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">saamelaine</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">саамка</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">sada (suan, sadua; sadoi)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">сто</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">sada (suan, sadua -  sadoi)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">сто</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">sadu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">сад</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">sagarvo</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">выдра</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">salbavo</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">шлюз</t> </tg> </mg> </e>
@@ -6169,7 +6169,7 @@
 <e> <lg> <l pos="N">toimi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">мероприятие</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">toimindu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">деятельность</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">toimivelgu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">обязанность</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">toinargi (tossarren, tossargie; tossargiloi)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">вторник</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">toinargi (tossarren, tossargie -  tossargiloi)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">вторник</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">toistamine</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">повтор</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">toistandu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">повтор</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">toisto</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">повтор</t> </tg> </mg> </e>
@@ -6516,7 +6516,7 @@
 <e> <lg> <l pos="N">uudizienkirjuttai</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">хронист</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">uuličču</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">улица</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">uurdain</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">промоина</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">uuzi (uvven, uuttu; uuzii)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">модерн</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">uuzi (uvven, uuttu -  uuzii)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">модерн</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">uveh</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">жеребец</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">uvehlähte</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">полынья</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">uvvenaigaine</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">модерн</t> </tg> </mg> </e>
@@ -6880,8 +6880,8 @@
 <e> <lg> <l pos="N">vestätes</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">затёс</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">veteruanu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">ветеран</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">veza</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">отрост|ок</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">vezi (vien, vetty; vezii)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">вода</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">vezi (vien, vetty; vezii)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">жидкость</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">vezi (vien, vetty -  vezii)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">вода</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">vezi (vien, vetty -  vezii)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">жидкость</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">vezibulʼku</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">волдырь</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">vezihebo</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">бегемот</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">vezikorendo</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">стрекоза</t> </tg> </mg> </e>
@@ -7187,7 +7187,7 @@
 <e> <lg> <l pos="N">väčkändy</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">прекословие</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">ydin</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">суть</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">yheksä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">девять</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">yheksäkymmen (yheksänkymmenen; yheksiäkymmendy; yheksiikymmenii)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">девяност|о</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">yheksäkymmen (yheksänkymmenen -  yheksiäkymmendy -  yheksiikymmenii)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">девяност|о</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">yhtehine ruado</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">сотрудничество</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">yhtehmeno</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">бракосочетание</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">yhtehpädemine</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="N">совместимость</t> </tg> </mg> </e>

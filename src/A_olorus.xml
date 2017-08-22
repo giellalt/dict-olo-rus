@@ -13,7 +13,6 @@
 
 
 <e> <lg> <l pos="A">-kulu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="A">утлый</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">: быть довольным olla hyväs mieles (pidiä hyviä mieldy)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="A">довольный</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">Kanuadan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="A">канадский</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">Kitain</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="A">китайский</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">Polʼšan</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="A">польский</t> </tg> </mg> </e>
@@ -741,8 +740,8 @@
 <e> <lg> <l pos="A">kahtenhengen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="A">двухместный</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">kahtenkerdaine</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="A">двойной</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">kahtenluaduine</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="A">двоякий</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">kahteskymmenes (kahtendenkymmenenden, kahtettukymmenetty; kahtenziikymmenenzii)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="A">двадцатый</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">kahtestostu (kahtendentostu, kahtettutostu; kahtenziitostu)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="A">двенадцатый</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kahteskymmenes (kahtendenkymmenenden, kahtettukymmenetty -  kahtenziikymmenenzii)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="A">двадцатый</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">kahtestostu (kahtendentostu, kahtettutostu -  kahtenziitostu)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="A">двенадцатый</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">kaidunenäine</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="A">узконосый</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">kaikenjyttyine</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="A">всевозможный</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">kaikenjyttyine</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="A">разнообразный</t> </tg> </mg> </e>
@@ -1653,8 +1652,8 @@
 <e> <lg> <l pos="A">oranževoi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="A">оранжевый</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">orboi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="A">осиротелый</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">orguanine</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="A">органический</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">oudo (ovvon, ouduo; oudoloi)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="A">незнакомый</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">oudo (ovvon, ouduo; oudoloi)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="A">необыкновенный</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">oudo (ovvon, ouduo -  oudoloi)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="A">незнакомый</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">oudo (ovvon, ouduo -  oudoloi)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="A">необыкновенный</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">oza-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="A">частичный</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">ozakas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="A">благополучный</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">ozakas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="A">счастливый</t> </tg> </mg> </e>
@@ -2868,11 +2867,11 @@
 <e> <lg> <l pos="A">yhtennägöine</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="A">похожий</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">yhtes-</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="A">коллективный</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">yhtesruattavu</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="A">авральный</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">yhtestostu (yhtendentostu, yhtettytostu; yhtenziitostu)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="A">одиннадцатый</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">yhtestostu (yhtendentostu, yhtettytostu -  yhtenziitostu)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="A">одиннадцатый</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">yhtistelty</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="A">комбинированный</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">yhtistetty</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="A">составной</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">yhtistäi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="A">соединительный</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">yksi (yhten, yhty; yksii)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="A">некий</t> </tg> </mg> </e>
+<e> <lg> <l pos="A">yksi (yhten, yhty -  yksii)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="A">некий</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">yksikerrokselline</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="A">одноэтажный</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">yksiluaduine</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="A">однообразный</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">yksimieline</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="A">единогласный</t> </tg> </mg> </e>
