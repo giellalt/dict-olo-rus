@@ -9,14 +9,14 @@
    entries with objectionable translations, etc. If you find any errors 
    or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote>
 </lics>
-<e> <lg> <l pos="Num">kaheksas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="Det">восьмой</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">kaksi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="Num">два</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">kaksikymmen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="Num">двадцать</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">kaksisadua</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="Num">двести</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">kolme</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="Num">три</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">kuuzi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="Num">шесть</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">nelli</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="Num">четыре</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">seiččei</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="Num">семь</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">seiččeikymmen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="Num">семьдесят</t> </tg> </mg> </e>
-<e> <lg> <l pos="Num">tuhat</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="Num">тысяча</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kaheksas</l></lg> <mg> <tg xml:lang="rus"> <t pos="Det">восьмой</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kaksi</l></lg> <mg> <tg xml:lang="rus"> <t pos="Num">два</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kaksikymmen</l></lg> <mg> <tg xml:lang="rus"> <t pos="Num">двадцать</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kaksisadua</l></lg> <mg> <tg xml:lang="rus"> <t pos="Num">двести</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kolme</l></lg> <mg> <tg xml:lang="rus"> <t pos="Num">три</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kuuzi</l></lg> <mg> <tg xml:lang="rus"> <t pos="Num">шесть</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">nelli</l></lg> <mg> <tg xml:lang="rus"> <t pos="Num">четыре</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">seiččei</l></lg> <mg> <tg xml:lang="rus"> <t pos="Num">семь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">seiččeikymmen</l></lg> <mg> <tg xml:lang="rus"> <t pos="Num">семьдесят</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">tuhat</l></lg> <mg> <tg xml:lang="rus"> <t pos="Num">тысяча</t> </tg> </mg> </e>
 </r>

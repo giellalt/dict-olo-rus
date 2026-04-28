@@ -9,18 +9,18 @@
    entries with objectionable translations, etc. If you find any errors 
    or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote>
 </lics>
-<e> <lg> <l pos="Adv">animi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="Adv">ничто</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">ei hätkie</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="Adv">недолго</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">kenlienne (kenenlienne, kedälienne)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="Adv">кто-то</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">kenliennou (kenenliennou, kedäliennou)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="Adv">кто-то</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">kentah (kenentah, kedätah)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="Adv">кто-либо</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">kentahto (kenentahto, kedätahto)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="Adv">кто-либо</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">kodvaine (-zen, -stu)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="Adv">недолго</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">mittuinelienne (mittumanliennе, mittumualiennе -  mittumiilienne)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="Adv">какой-то</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">mituslienne (mittuonliennе, mituttuliennе -  mittuziilienne)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="Adv">какой-то</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">neče (-en, -idä)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="Adv">то</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">niken (nikenen, nikedä)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="Adv">никто</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">nimi (nimin, nimidä)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="Adv">ничто</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">se (sen, sidä)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="Adv">то</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">tai (tuan, tuadu)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="Adv">то</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">animi</l></lg> <mg> <tg xml:lang="rus"> <t pos="Adv">ничто</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">ei hätkie</l></lg> <mg> <tg xml:lang="rus"> <t pos="Adv">недолго</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">kenlienne (kenenlienne, kedälienne)</l></lg> <mg> <tg xml:lang="rus"> <t pos="Adv">кто-то</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">kenliennou (kenenliennou, kedäliennou)</l></lg> <mg> <tg xml:lang="rus"> <t pos="Adv">кто-то</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">kentah (kenentah, kedätah)</l></lg> <mg> <tg xml:lang="rus"> <t pos="Adv">кто-либо</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">kentahto (kenentahto, kedätahto)</l></lg> <mg> <tg xml:lang="rus"> <t pos="Adv">кто-либо</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">kodvaine (-zen, -stu)</l></lg> <mg> <tg xml:lang="rus"> <t pos="Adv">недолго</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">mittuinelienne (mittumanliennе, mittumualiennе -  mittumiilienne)</l></lg> <mg> <tg xml:lang="rus"> <t pos="Adv">какой-то</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">mituslienne (mittuonliennе, mituttuliennе -  mittuziilienne)</l></lg> <mg> <tg xml:lang="rus"> <t pos="Adv">какой-то</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">neče (-en, -idä)</l></lg> <mg> <tg xml:lang="rus"> <t pos="Adv">то</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">niken (nikenen, nikedä)</l></lg> <mg> <tg xml:lang="rus"> <t pos="Adv">никто</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">nimi (nimin, nimidä)</l></lg> <mg> <tg xml:lang="rus"> <t pos="Adv">ничто</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">se (sen, sidä)</l></lg> <mg> <tg xml:lang="rus"> <t pos="Adv">то</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">tai (tuan, tuadu)</l></lg> <mg> <tg xml:lang="rus"> <t pos="Adv">то</t> </tg> </mg> </e>
 </r>

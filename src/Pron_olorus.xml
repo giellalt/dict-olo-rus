@@ -10,11 +10,11 @@
    or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote>
 </lics>
 
-<e> <lg> <l pos="Pron">hyö</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="Pron">они</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">häi</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="Pron">она</t><t Contlex="" pos="Pron">он</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">minä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="Pron">я</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">myö</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="Pron">мы</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">se</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="Pron">оно</t><t Contlex="" pos="Pron">он</t><t Contlex="" pos="Pron">она</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">sinä</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="Pron">ты</t> </tg> </mg> </e>
-<e> <lg> <l pos="Pron">työ</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="rus"> <t Contlex="" pos="Pron">вы</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">hyö</l></lg> <mg> <tg xml:lang="rus"> <t pos="Pron">они</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">häi</l></lg> <mg> <tg xml:lang="rus"> <t pos="Pron">она</t><t pos="Pron">он</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">minä</l></lg> <mg> <tg xml:lang="rus"> <t pos="Pron">я</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">myö</l></lg> <mg> <tg xml:lang="rus"> <t pos="Pron">мы</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">se</l></lg> <mg> <tg xml:lang="rus"> <t pos="Pron">оно</t><t pos="Pron">он</t><t pos="Pron">она</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">sinä</l></lg> <mg> <tg xml:lang="rus"> <t pos="Pron">ты</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">työ</l></lg> <mg> <tg xml:lang="rus"> <t pos="Pron">вы</t> </tg> </mg> </e>
 </r>
